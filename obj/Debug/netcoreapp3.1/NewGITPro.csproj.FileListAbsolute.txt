@@ -1,0 +1,11 @@
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.exe
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.deps.json
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.runtimeconfig.json
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.runtimeconfig.dev.json
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.dll
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\bin\Debug\netcoreapp3.1\NewGITPro.pdb
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\obj\Debug\netcoreapp3.1\NewGITPro.csprojAssemblyReference.cache
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\obj\Debug\netcoreapp3.1\NewGITPro.AssemblyInfoInputs.cache
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\obj\Debug\netcoreapp3.1\NewGITPro.AssemblyInfo.cs
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\obj\Debug\netcoreapp3.1\NewGITPro.dll
+C:\Users\y.rozhkov\source\repos\NewGITPro\NewGITPro\obj\Debug\netcoreapp3.1\NewGITPro.pdb
