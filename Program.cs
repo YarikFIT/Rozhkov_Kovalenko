@@ -201,7 +201,7 @@ namespace Robot_AI
                     {
                         if (robot.pos_x == i && robot.pos_y == j)
                         {
-                            Console.ForegroundColor = ConsoleColor.Red; // устанавливаем цвет
+                            Console.ForegroundColor = ConsoleColor.Blue; // устанавливаем цвет
                             Console.Write('r');
                             Console.ResetColor();
                         }
